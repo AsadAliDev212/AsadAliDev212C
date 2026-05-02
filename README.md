@@ -41,4 +41,71 @@ I'm a passionate **student developer** exploring the intersection of **web devel
 
 ---
 
-## 📊 Current Focus
+---
+
+## 🔗 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+## 📈 Stats & Achievements
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsadAliDev212C&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAliDev212C&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🎓 Learning Journey
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+I'm on a mission to master:
+- ✅ Core DSA Concepts
+- ✅ Web Development Best Practices
+- ✅ Advanced Algorithm Techniques
+- 🚀 Competitive Programming Excellence
+- 🎯 IOI Level Problem Solving
+
+---
+
+## 💡 Fun Facts
+
+- 🏃 I debug code faster than I run a 100m sprint (probably)
+- 🎮 Competitive programming is my favorite game
+- 📖 I believe clean code is readable code
+- ☕ Coffee and algorithms fuel my day
+
+---
+
+## 🚀 Let's Collaborate!
+
+I'm always open to:
+- 💬 Discussing algorithms and problem-solving strategies
+- 🤝 Collaborating on interesting projects
+- 📚 Learning from experienced developers
+- 🌟 Contributing to open-source projects
+
+Feel free to reach out or check out my repositories below!
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Asad Ali | Always Learning, Always Growing**
+
+⭐ If you find my projects helpful, don't forget to star them!
+
+</div>
