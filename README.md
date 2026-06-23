@@ -47,10 +47,10 @@ I'm a passionate **student developer** exploring the intersection of **web devel
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asad-ali-213866298/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/asadali_2)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadrid47@gmail.com)
 
 </div>
 
@@ -60,9 +60,6 @@ I'm a passionate **student developer** exploring the intersection of **web devel
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsadAliDev212C&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAliDev212C&layout=compact&theme=radical)
 
 </div>
 
@@ -74,7 +71,7 @@ I'm a passionate **student developer** exploring the intersection of **web devel
 
 I'm on a mission to master:
 - ✅ Core DSA Concepts
-- ✅ Web Development Best Practices
+- ✅ Web Development 
 - ✅ Advanced Algorithm Techniques
 - 🚀 Competitive Programming Excellence
 - 🎯 IOI Level Problem Solving
@@ -85,7 +82,6 @@ I'm on a mission to master:
 
 - 🏃 I debug code faster than I run a 100m sprint (probably)
 - 🎮 Competitive programming is my favorite game
-- 📖 I believe clean code is readable code
 - ☕ Coffee and algorithms fuel my day
 
 ---
@@ -98,7 +94,7 @@ I'm always open to:
 - 📚 Learning from experienced developers
 - 🌟 Contributing to open-source projects
 
-Feel free to reach out or check out my repositories below!
+Feel free to reach out or check out my repositories !
 
 ---
 
